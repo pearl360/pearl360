@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Pearl 👋
 
-<!--
-**pearl360/pearl360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🪴 I love learning new skills & creating to entertain<br>
+🫀 Currently working in healthcare technology<br>
+🫶 Hobbies: Listening to music, reading, learning Spanish<br>
 
-Here are some ideas to get you started:
+##### Experience working with
+[![My Skills](https://skillicons.dev/icons?i=html,css,py,figma,arduino,azure,matlab,selenium)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Currently studying
+[![My Skills](https://skillicons.dev/icons?i=js,react)](https://skillicons.dev)
+<br>
+<br>
+![](https://komarev.com/ghpvc/?username=pearl360&color=blue) 
